@@ -1,4 +1,4 @@
-package com.baeldung;
+package com.appengine;
 
 import static org.apache.commons.lang3.RandomStringUtils.randomAlphabetic;
 import static org.apache.commons.lang3.RandomStringUtils.randomNumeric;
@@ -16,7 +16,7 @@ import com.appengine.persistence.model.Book;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class SpringBootBootstrapLiveTest {
+public class SpringBootTest {
 
     private static final String API_ROOT = "http://localhost:8080/api/books";
 
