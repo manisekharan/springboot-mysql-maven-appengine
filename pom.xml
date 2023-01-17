@@ -9,8 +9,8 @@
     	<version>2.7.2</version>
     	<relativePath />
 	</parent>
-    <artifactId>spring-boot-gcp-app-engine</artifactId>
-    <name>spring-boot-gcp-app-engine</name>
+    <artifactId>springboot-appengine-demo</artifactId>
+    <name>springboot-appengine-demo</name>
     <packaging>jar</packaging>
     <description>Demo project for Spring Boot-App Engine</description>
     <dependencies>
